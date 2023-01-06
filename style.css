@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  box-shadow: 0 1px 1px rgb(195 195 195 / 50%);
+}
+
+nav > div {
+  text-align: center;
+  font-family: "Maven Pro";
+}
+
+.name {
+  font-family: "Maven Pro";
+}
+
+.slogan {
+  font-size: 13px;
+}

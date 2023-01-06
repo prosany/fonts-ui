@@ -1,0 +1,29 @@
+/* Fonts Family */
+
+/* Regular Font - 300 */
+@font-face {
+  font-family: "Hebrew";
+  src: url("./open-sans-hebrew/OpenSansHebrew-Light.ttf");
+  font-weight: 300;
+}
+
+/* Regular Font - 400 */
+@font-face {
+  font-family: "Hebrew";
+  src: url("./open-sans-hebrew/OpenSansHebrew-Regular.ttf");
+  font-weight: 400;
+}
+
+/* Medium Font - 500 */
+@font-face {
+  font-family: "Hebrew";
+  src: url("./open-sans-hebrew/OpenSansHebrew-Bold.ttf");
+  font-weight: 400;
+}
+
+/* Medium Font - 600 */
+@font-face {
+  font-family: "Hebrew";
+  src: url("./open-sans-hebrew/OpenSansHebrew-ExtraBold.ttf");
+  font-weight: 400;
+}

@@ -1,0 +1,29 @@
+/* Fonts Family */
+
+/* Regular Font - 400 */
+@font-face {
+  font-family: "Maven Pro";
+  src: url("./Maven_Pro/MavenPro-Regular.ttf");
+  font-weight: 400;
+}
+
+/* Medium Font - 500 */
+@font-face {
+  font-family: "Maven Pro";
+  src: url("./Maven_Pro/MavenPro-Medium.ttf");
+  font-weight: 500;
+}
+
+/* Medium Font - 600 */
+@font-face {
+  font-family: "Maven Pro";
+  src: url("./Maven_Pro/MavenPro-Bold.ttf");
+  font-weight: 600;
+}
+
+/* Medium Font - 900 */
+@font-face {
+  font-family: "Maven Pro";
+  src: url("./Maven_Pro/MavenPro-Black.ttf");
+  font-weight: 900;
+}
